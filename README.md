@@ -62,7 +62,7 @@ Throughout this course, I have significantly expanded my knowledge of DevOps pra
 
 ## Sample CV
 
-Please find my sample CV [here](./sample-cv.pdf), which includes details about my academic background, skills, and experience related to DevOps and software development.
+Please find my sample CV [here](https://drive.google.com/file/d/14Fp1KX_zQLAI0tQwddUdQm75ZQkMfV1X/view?usp=sharing), which includes details about my academic background, skills, and experience related to DevOps and software development.
 
 ## How to Contribute
 
@@ -74,7 +74,7 @@ I welcome contributions and suggestions to improve the content in this repositor
 
 ## Contact
 
-For any questions or further information, feel free to contact me via email at [your.email@example.com].
+For any questions or further information, feel free to contact me via email at [saifullah.rizv@gmail.com].
 
 ---
 
