@@ -36,23 +36,59 @@ For this section, I’ve chosen a sample repository that demonstrates the applic
 
 [Sample Repository: DevOps Tooling Demonstration](https://github.com/Nvm-seff/Rock-Paper-Scissor)
 
+# Rock-Paper-Scissors Game
+
+## Overview
+
+This repository contains the code for the **Rock-Paper-Scissors** game, a simple web-based application where players can play against the computer. The application has been containerized using **Docker** and deployed using **Kubernetes** to ensure scalability and consistent environments across development and production.
+
+## Features
+
+- **User Interface**: A simple, intuitive interface where users can select Rock, Paper, or Scissors to play against the computer.
+- **Game Logic**: Implements the classic rules of Rock-Paper-Scissors.
+- **Containerized with Docker**: The app is packaged in a Docker container, ensuring that it runs consistently across different environments.
+- **Deployed on Kubernetes**: The app is deployed on a Kubernetes cluster for automated deployment, scaling, and management.
+
+## Tools and Technologies Used
+
+- **Node.js**: The backend of the application is built using Node.js.
+- **Express**: Used for handling HTTP requests and routing.
+- **Socket.io**: Enables real-time communication for multiplayer gameplay.
+- **Docker**: Used to containerize the application and create a Docker image for easy deployment.
+- **Kubernetes**: Used to deploy and manage the application in a scalable and resilient way.
+
+## DevOps Tooling
+
 The repository includes:
 - **Docker containerization** for ensuring consistent environments across development and production.
 - A **Docker image** that can be easily built and run.
-  
+- **Kubernetes deployment** for orchestrating and managing the app in a scalable and resilient way.
+
 ### Applying DevOps Tooling:
-In this section, I apply the knowledge I’ve gained to enhance and automate the development lifecycle. I've worked on **Docker** for containerization, ensuring that the game runs consistently on any machine or environment.
+In this section, I apply the knowledge I’ve gained to enhance and automate the development lifecycle. I've worked on **Docker** for containerization and **Kubernetes** for deploying and managing the application, ensuring that the game runs consistently and can scale easily.
 
 #### Tools Used:
 - **Docker**: Ensures consistent environments for application development and deployment, simplifying setup and execution.
-  
+- **Kubernetes**: Used for automating the deployment, scaling, and management of the application. Kubernetes ensures that the app is highly available, easily manageable, and scalable across different environments.
+
 ## Expanding My Knowledge
 
 Throughout this project, I have significantly expanded my knowledge of DevOps practices by diving deep into the following areas:
 
 - **Containerization**: Using **Docker**, I containerized the Rock-Paper-Scissor game, allowing it to run seamlessly across different environments without the "it works on my machine" problem.
 - **Docker Images**: I learned to build a Docker image for the application, enabling quick setup and deployment.
-- **Simplified Setup and Execution**: With Docker, I’ve made it easy to run the application with minimal configuration by using just a few commands.
+- **Kubernetes Deployment**: I implemented Kubernetes deployment files (`deployment.yaml` and `service.yaml`) to manage the application on a Kubernetes cluster, ensuring that the application is deployed in a scalable, fault-tolerant manner.
+- **NodePort Service in Kubernetes**: I set up a **NodePort** service in Kubernetes to expose the application on a specific port across the cluster, making it accessible externally.
+- **Simplified Setup and Execution**: With Docker and Kubernetes combined, I’ve made it easy to run, manage, and scale the application with minimal configuration using just a few commands.
+
+## Prerequisites
+
+To run this application locally or deploy it on your own Kubernetes cluster, you need the following:
+
+- **Docker**: To build and run the application in a containerized environment.
+- **Kubernetes**: To deploy and manage the application on a Kubernetes cluster.
+- **kubectl**: The command-line tool for interacting with Kubernetes clusters.
+- **Node.js**: Required to run the backend of the application.
 
 ## Sample CV
 
