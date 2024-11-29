@@ -34,7 +34,7 @@ By reading this blog, you’ll gain insights into:
 ### Sample Repository:
 For this section, I’ve chosen a sample repository that demonstrates the application of essential DevOps tools and practices in a real-world context. This repository focuses on containerizing a simple **Rock-Paper-Scissor** game using **Docker** for consistent deployment and environment management.
 
-[Sample Repository: DevOps Tooling Demonstration](https://github.com/Thiru-kumaran-R/Rock-Paper-Scissor)
+[Sample Repository: DevOps Tooling Demonstration](https://github.com/Nvm-seff/Rock-Paper-Scissor)
 
 The repository includes:
 - **Docker containerization** for ensuring consistent environments across development and production.
