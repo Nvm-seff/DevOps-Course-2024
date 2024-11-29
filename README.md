@@ -29,36 +29,30 @@ By reading this blog, you’ll gain insights into:
 - The importance of IaC in modern DevOps pipelines.
 - How IaC tools like Terraform and Ansible help in automating infrastructure deployment.
 - Understanding the link between IaC and continuous integration/continuous deployment (CI/CD) pipelines.
-
 ## DevOps Tooling and Sample Repository
 
 ### Sample Repository:
-For this section, I’ve chosen a sample repository that demonstrates the application of essential DevOps tools and practices in a real-world context. This repository highlights the integration of CI/CD pipelines, automated testing, and infrastructure provisioning using tools such as Jenkins, Docker, Kubernetes, and Terraform.
+For this section, I’ve chosen a sample repository that demonstrates the application of essential DevOps tools and practices in a real-world context. This repository focuses on containerizing a simple **Rock-Paper-Scissor** game using **Docker** for consistent deployment and environment management.
 
-[Sample Repository: DevOps Tooling Demonstration](https://github.com/sample-repo-url)
+[Sample Repository: DevOps Tooling Demonstration](https://github.com/Thiru-kumaran-R/Rock-Paper-Scissor)
 
 The repository includes:
-- A fully configured CI/CD pipeline.
-- Docker containerization for application consistency across environments.
-- Kubernetes deployment for managing containerized applications at scale.
-- Infrastructure management through Terraform scripts for reproducible environments.
-
+- **Docker containerization** for ensuring consistent environments across development and production.
+- A **Docker image** that can be easily built and run.
+  
 ### Applying DevOps Tooling:
-In this section, I apply the knowledge I’ve gained to enhance and automate the development lifecycle. I've worked on implementing **Jenkins** for CI/CD, **Docker** for containerization, **Kubernetes** for container orchestration, and **Terraform** for infrastructure automation. These tools help automate repetitive tasks, manage deployments efficiently, and ensure smoother collaboration across development teams.
+In this section, I apply the knowledge I’ve gained to enhance and automate the development lifecycle. I've worked on **Docker** for containerization, ensuring that the game runs consistently on any machine or environment.
 
 #### Tools Used:
-- **Jenkins**: Automates the build, test, and deployment processes.
-- **Docker**: Ensures consistent environments for application development and deployment.
-- **Kubernetes**: Orchestrates Docker containers, allowing scalable and manageable deployments.
-- **Terraform**: Manages infrastructure as code to automate cloud resource provisioning.
-
+- **Docker**: Ensures consistent environments for application development and deployment, simplifying setup and execution.
+  
 ## Expanding My Knowledge
 
-Throughout this course, I have significantly expanded my knowledge of DevOps practices by diving deep into the following areas:
-- **CI/CD Pipelines**: With Jenkins, I’ve learned to build robust and efficient CI/CD pipelines that automate testing and deployment.
-- **Containerization and Orchestration**: Through Docker and Kubernetes, I have gained hands-on experience in containerizing applications and managing them at scale in production environments.
-- **Infrastructure Automation**: Using Terraform, I’ve automated the creation and management of cloud infrastructure, ensuring faster, more reliable provisioning.
-- **Monitoring and Feedback**: I’ve learned the importance of continuous monitoring in DevOps to identify performance issues, improve system reliability, and iterate rapidly based on feedback.
+Throughout this project, I have significantly expanded my knowledge of DevOps practices by diving deep into the following areas:
+
+- **Containerization**: Using **Docker**, I containerized the Rock-Paper-Scissor game, allowing it to run seamlessly across different environments without the "it works on my machine" problem.
+- **Docker Images**: I learned to build a Docker image for the application, enabling quick setup and deployment.
+- **Simplified Setup and Execution**: With Docker, I’ve made it easy to run the application with minimal configuration by using just a few commands.
 
 ## Sample CV
 
