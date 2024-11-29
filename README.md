@@ -58,14 +58,6 @@ Throughout this project, I have significantly expanded my knowledge of DevOps pr
 
 Please find my sample CV [here](https://drive.google.com/file/d/14Fp1KX_zQLAI0tQwddUdQm75ZQkMfV1X/view?usp=sharing), which includes details about my academic background, skills, and experience related to DevOps and software development.
 
-## How to Contribute
-
-I welcome contributions and suggestions to improve the content in this repository. To contribute:
-1. Fork this repository to your own GitHub account.
-2. Clone it to your local machine.
-3. Make your desired changes or improvements.
-4. Submit a pull request with a detailed description of your changes.
-
 ## Contact
 
 For any questions or further information, feel free to contact me via email at [saifullah.rizv@gmail.com].
